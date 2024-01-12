@@ -4,6 +4,7 @@
 
 ### WIP
 
+```yaml
 name: Aliyeh Zeijnali
 located: Northern California
 status: Open to Work and currently a student at WGU
@@ -16,3 +17,5 @@ experience:
       Visby Medical - AP Specialist and IT Assistant 
 
 hobbies: muay thai, athletic training, helping others, cooking
+```
+
