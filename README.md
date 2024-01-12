@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=233&color=gradient&text=Wassup!&fontColor=FFFFFF&fontSize=80&fontAlignY=43&animation=fadeIn"/>
 </p>
 
-### WIP
+## WIP
+
+### Who the heck is uhleehaw?!
 
 ```yaml
 👧 name: Aliyeh Zeijnali
@@ -26,5 +28,13 @@
   "helping others",
   "cooking"]
 ```
-**Copy and Paste this code, once ran Aliyeh will pop up!**
+### Certifications
+![https://img.shields.io/badge/CompTIA%20A+%20-8A2BE2]
 
+CompTIA Network+
+CompTIA Security+
+CompTIA Project+
+ITIL 4 Foundation
+Certified Expert Penetration Tester (CEPT)
+Google IT Support Professional Certificate
+Mobile App Design and Coding
