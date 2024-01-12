@@ -29,7 +29,7 @@
   "cooking"]
 ```
 ### Certifications
-![https://img.shields.io/badge/CompTIA%20A+%20-8A2BE2]
+![image](https://img.shields.io/badge/CompTIA%20A+%20-8A2BE2)
 
 CompTIA Network+
 CompTIA Security+
