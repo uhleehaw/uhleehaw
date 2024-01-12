@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=233&color=gradient&text=Wassup!&fontColor=FFFFFF&fontSize=80&fontAlignY=43&animation=fadeIn"/>
 </p>
 
-## WIP
-
 ### Who the heck is uhleehaw?!
 
 ```yaml
@@ -29,12 +27,12 @@
   "cooking"]
 ```
 ### Certifications
-![image](https://img.shields.io/badge/CompTIA%20A+%20-8A2BE2)
+![image](https://img.shields.io/badge/CompTIA%20A+%20-000159)
+![image](https://img.shields.io/badge/CompTIA%20Network+%20-003366)
+![image](https://img.shields.io/badge/CompTIA%20Security+%20-004080)
+![image](https://img.shields.io/badge/CompTIA%20Project+%20-005099)
+![image](https://img.shields.io/badge/ITIL%204%20Foundation%20-0066B2)
+![image](https://img.shields.io/badge/CEPT%20-0077CC)
+![image](https://img.shields.io/badge/Google%20IT%20Support%20Professional%20Certificate%20-0088E5)
+![image](https://img.shields.io/badge/Mobile%20App%20Design%20and%20Coding%20-330066)
 
-CompTIA Network+
-CompTIA Security+
-CompTIA Project+
-ITIL 4 Foundation
-Certified Expert Penetration Tester (CEPT)
-Google IT Support Professional Certificate
-Mobile App Design and Coding
