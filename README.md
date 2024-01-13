@@ -36,3 +36,9 @@
 ![image](https://img.shields.io/badge/Google%20IT%20Support%20Professional%20Certificate%20-8A2C2C)
 ![image](https://img.shields.io/badge/Mobile%20App%20Design%20and%20Coding%20-8A5B2C)
 
+### Strengths
+![image](https://img.shields.io/badge/Deliverer%20-960000)
+![image](https://img.shields.io/badge/Time%20Keeper%20-800000)
+![image](https://img.shields.io/badge/Philomath%20-6B0000)
+![image](https://img.shields.io/badge/Thinker%20-550000)
+![image](https://img.shields.io/badge/Strategist%20-400000)
