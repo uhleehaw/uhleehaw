@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=233&color=gradient&text=Wassup!&fontColor=FFFFFF&fontSize=80&fontAlignY=43&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Wassup!&fontColor=FFFFFF&fontSize=80&fontAlignY=40&animation=fadeIn"/>
 </p>
-### So sho the heck is uhleehaw?!
+
+### So who the heck is uhleehaw?!
 
 ```yaml
 👧 name: Aliyeh Zeijnali
