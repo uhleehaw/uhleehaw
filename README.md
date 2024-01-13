@@ -27,12 +27,12 @@
   "cooking"]
 ```
 ### Certifications
-![image](https://img.shields.io/badge/CompTIA%20A+%20-000159)
-![image](https://img.shields.io/badge/CompTIA%20Network+%20-003366)
-![image](https://img.shields.io/badge/CompTIA%20Security+%20-004080)
-![image](https://img.shields.io/badge/CompTIA%20Project+%20-005099)
-![image](https://img.shields.io/badge/ITIL%204%20Foundation%20-0066B2)
-![image](https://img.shields.io/badge/CEPT%20-0077CC)
-![image](https://img.shields.io/badge/Google%20IT%20Support%20Professional%20Certificate%20-0088E5)
-![image](https://img.shields.io/badge/Mobile%20App%20Design%20and%20Coding%20-330066)
+![image](https://img.shields.io/badge/CompTIA%20A+%20-000059)
+![image](https://img.shields.io/badge/CompTIA%20Network+%20-15156D)
+![image](https://img.shields.io/badge/CompTIA%20Security+%20-2C2C8A)
+![image](https://img.shields.io/badge/CompTIA%20Project+%20-5B2C8A)
+![image](https://img.shields.io/badge/ITIL%204%20Foundation%20-8A2C8A)
+![image](https://img.shields.io/badge/CEPT%20-8A2C5B)
+![image](https://img.shields.io/badge/Google%20IT%20Support%20Professional%20Certificate%20-8A2C2C)
+![image](https://img.shields.io/badge/Mobile%20App%20Design%20and%20Coding%20-8A5B2C)
 
